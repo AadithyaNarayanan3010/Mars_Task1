@@ -44,5 +44,3 @@ void loop()
     digitalWrite(green_led,stategreen);
   }
 }
-
-//
